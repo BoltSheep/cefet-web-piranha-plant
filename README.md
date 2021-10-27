@@ -82,7 +82,7 @@ exclusivas de cada página. Por exemplo, considere esta estrutura de pasta:
     - `images`
       - `...`
     - `css`
-      - `estilos-comuns.css`
+      - `estilos-comuns.css (Nao coloquei, pois nao fiz nada em comum*)` 
       - `estilos-plantas.css`
       - `estilos-loja.css`
     - `...`
